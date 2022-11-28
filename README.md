@@ -1,5 +1,5 @@
 # playlist-song-predictor
 
-Problem Statement - Given a playlist and a random track, will the track be added to the playlist?
+Given a playlist and a random track pair, will the track be added to the playlist?
 
-We attempt the above problem statement using various heuristic and ML recommender system models. 
+We attempt to solve the above problem using various heuristic and ML recommender system models. 
